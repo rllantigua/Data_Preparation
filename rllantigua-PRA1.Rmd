@@ -96,6 +96,9 @@ Como **primera parte** del estudio analítico que nos disponemos a realizar, se 
 
 5. Aplicar un estudio PCA sobre el juego de datos. A pesar de no estar explicado en el material didáctico, se valorará si en lugar de PCA investigáis por vuestra cuenta y aplicáis SVD (Single Value Decomposition).
 
+******
+# Solución
+******
 
 ******
 # Rúbrica
